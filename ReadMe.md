@@ -42,7 +42,7 @@
 -->
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Nanum+Pen+Script&weight=150&size=30&pause=1000&center=true&repeat=false&width=435&lines=%EC%95%BC!+%EB%84%88%EB%8F%84+%EA%B3%B5%EB%8F%99%EA%B5%AC%EB%A7%A4+%ED%95%A0+%EC%88%98+%EC%9E%88%EC%96%B4!;%EA%B3%B5%EA%B5%AC%EC%B9%9C%EA%B5%AC">
+<img src="https://readme-typing-svg.demolab.com?font=Nanum+Pen+Script&weight=150&size=30&pause=200&center=true&repeat=false&width=435&lines=%EC%95%BC!+%EB%84%88%EB%8F%84+%EA%B3%B5%EB%8F%99%EA%B5%AC%EB%A7%A4+%ED%95%A0+%EC%88%98+%EC%9E%88%EC%96%B4!;%EA%B3%B5%EA%B5%AC%EC%B9%9C%EA%B5%AC">
 </div>
 
 
