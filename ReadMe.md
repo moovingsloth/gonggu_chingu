@@ -1,53 +1,224 @@
-# 중고거래 앱 프로젝트
+<!-- Intro-->
 
-# TODO
-
-1. 메인 페이지 Tab UI 구성하기
-2. 상품 목록 페이지 UI 구성하기
-3. Firebase  Realtime Database 를 활용하여 DB 구조 구상하기
-4. Firebase에서 상품 목록 가져와 보여주기
-5. Firebase Storage 를 이용하여 사진 업로드 추가하기
-6. 마이페이지 구현하기
-7. 채팅 리스트 구현하기
-8. 채팅 페이지 구현하기
+<!--
+* Thanks for reviewing my Project-README-Template! 
+* Access the blank-template here (https://github.com/YousefIbrahimismail/Project-README-Template/blob/main/Templates/_blank-README.md) 
+* 
+* Read the comments for an easy step by step guide.or read this Make_it_Yours guide here: () // add Personalization_md_file
+* Enjoy!
+-->
 
 
+<!-- Shields Section--><!-- Optional -->
 
-# 결과화면
-
-![1](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F2HIIz%2Fbtq72jSJTED%2Fu6GY0M8TgkxtXSkWQCII0K%2Fimg.jpg)
-
-![2](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fc1lhng%2Fbtq74o6QSRo%2FwDcLhK7wwkVuPqf7w20GF0%2Fimg.jpg)
-
-![3](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FD445Y%2Fbtq70C6kLCo%2FvQC2KyptRynJ0ulXkJGD8K%2Fimg.jpg)
-
-![4](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbr9nAZ%2Fbtq74DpaYYt%2F8dQBnXSeelEF4tP8kZdRN1%2Fimg.jpg)
+<!-- 
+* Insert project shields and badges through this link https://shields.io/
+* 
+*
+-->
 
 
 
-# 해당 프로젝트 주요 사용 기술
+<!-- Logo Section  --><!-- Required -->
 
-- **RecyclerView** 사용하기
-- **View Binding** 사용하기
-- **Fragment** 사용하기
-- **BottomNavigationView** 사용하기
-- **Firebase Storage** 사용하기
-- **Firebase Realtime Database** 사용하기
-- **Firebase Authentication** 사용하기
+<!--
+* Insert an image URL in the <img> "src" attribute bellow. (line )
+* 
+* Insert your github profile URL in the <a> "href" attribute bellow (line )
+-->
+<div align="center">
+    <a href="https://github.com/YousefIbrahimismail" target="_blank">
+        <img src="/images/1.gif" 
+        alt="Logo" width="290" height="290">
+    </a>
+</div>
 
 
+<div align="center">
+    <a href="https://github.com/YousefIbrahimismail" target="_blank">
+        <img src="https://user-images.githubusercontent.com/59213365/197888886-4de4b57c-e537-4a1d-94a0-937a4d1a136a.png" 
+        alt="Logo" width="290" height="290">
+    </a>
+</div>
 
-### 중고거래앱
 
-Firebase Authentication 기능을 사용하여 로그인 회원가입 기능을 구현할 수 있음.
+<!-- Project title 
+* use a dynamic typing-SvG here https://readme-typing-svg.demolab.com/demo/
+*
+*  Instead you can type your project name after a # header
+-->
 
-회원 기반으로 중고거래 아이템을 등록할 수 있음.
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=5000&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=Vivid-Project-Readme-Template!">
+</div>
 
-아이템 등록 시 사진 업로드를 위해 Firebase Storage 를 사용할 수 있음.
 
-회원 기반으로 채팅 화면을 구현할 수 있음.
+## About<!-- Required -->
+<!-- 
+* information about the project 
+* 
+* keep it short and sweet
+-->
 
-Fragment 를 사용하여 하단 탭 화면 구조를 구현할 수 있음.
 
-FloatingActionButton 을 사용하기
+This simple project offers you a fully customizable and presentable README.md template using only Markdown and HTML, to help jump start your projects. follow the [How to use guide](#how-to-use-this-project).
 
+
+## How to use this project<!-- Required -->
+<!-- 
+* Here you may add information about how 
+* 
+* and why to use this project.
+-->
+
+- Access the [Blank template](./Templates/_blank-README.md) to use for your projects. 
+- clone this repository into your local machine.
+
+```bash
+    git clone https://github.com/YousefIbrahimismail/Project-README-Template.git
+```
+- You can copy the markdown directly from this [MD file](./Templates/markdown-only.md).
+- Make sure to check the [Documentation](https://github.com/YousefIbrahimismail/Project-README-Template/wiki/Step-by-Step-Guide) for a step by step guide.
+- Support me by staring this repository 💛
+
+
+## Demo<!-- Required -->
+<!-- 
+* You can add a demo here GH supports images/ GIFs/videos 
+* 
+* It's recommended to use GIFs as they are more dynamic
+-->
+
+
+<div align="center">
+    <img alt="demo" src="https://user-images.githubusercontent.com/59213365/198179320-b9ec79a6-b5ca-47b9-9f29-125d18f6be70.gif">
+</div>
+
+## Table of Contents<!-- Optional -->
+<!-- 
+* This section is optional, yet having a contents table 
+* helps keeping your README readable and more professional.
+* 
+* If you are not familiar with HTML, no worries we all been there :) 
+* Review learning resources to create anchor links. 
+-->
+
+
+<dev display="inline-table" vertical-align="middle">
+<table align="center" vertical-align="middle">
+        <tr>
+            <td><a href="#about">About</a></td>        
+            <td><a href="#how-to-use-this-project">Getting started</td>
+            <td><a href="#demo">Demo</a></td>
+            <td><a href="#project-roadmap--">Project Roadmap</a></td>
+            <td><a href="#documentation">Documentation</a></td>
+            <td><a href="#contributors">Contributors</a></td>
+        </tr>
+        <tr>
+            <td><a href="#acknowledgments">Acknowledgments</a></td>
+            <td><a href="https://github.com/YousefIbrahimismail/Project-README-Template/tree/main/Learning_Resources">Learning Resources</a></td>
+            <td><a href="https://github.com/YousefIbrahimismail/Project-README-Template/wiki/Step-by-Step-Guide">
+            Step By Step Guide</a></td>
+            <td><a href="#feedback">Feedback</a></td>
+            <td><a href="#contact">Contact</a></td>
+            <td><a href="#license">License</a></td>
+        </tr>
+</table>
+</dev>
+
+
+<!-- - Use this html element to create a back to top button. -->
+<p align="right"><a href="#how-to-use-this-project">back to top ⬆️</a></p>
+
+
+## Project Roadmap <!-- Optional --> <!-- add learning_Rs-->
+<!-- 
+* Add this section in case the project has different phases
+* 
+* Under production or will be updated.
+-->
+
+- [x] Create first Template [Access blank Template](https://github.com/YousefIbrahimismail/Project-README-Template/blob/main/Templates/_blank-README.md).
+- [ ] Update a More Dynamic README file.
+
+
+<p align="right"><a href="#how-to-use-this-project">back to top ⬆️</a></p>
+
+## Documentation<!-- Optional -->
+<!-- 
+* You may add any documentation or Wikis here
+* 
+* 
+-->
+
+
+- [Wiki Step by Step](https://github.com/YousefIbrahimismail/Project-README-Template/wiki/Step-by-Step-Guide)
+
+
+## Contributors<!-- Required -->
+<!-- 
+* Without contribution we wouldn't have open source. 
+* 
+* Generate github contributors Image here https://contrib.rocks/preview?repo=angular%2Fangular-ja
+-->
+
+<a href="https://github.com/YousefIbrahimismail/Project-README-Template/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=YousefIbrahimismail/Project-README-Template" />
+</a>
+
+
+## Acknowledgments<!-- Optional -->
+<!-- 
+* Credit where it's do 
+* 
+* Feel free to share your inspiration sources, Stackoverflow questions, github repos, tools etc.
+-->
+
+
+- [Make a Readme](https://www.makeareadme.com/)
+- [Shields](https://shields.io/)
+- [Emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#flags)
+- [SVG README](https://readme-typing-svg.demolab.com/demo/)
+- [Choose an open source license](https://choosealicense.com/)
+
+<!-- - Use this html element to create a back to top button. -->
+<p align="right"><a href="#how-to-use-this-project">back to top ⬆️</a></p>
+
+
+## Feedback<!-- Required -->
+<!-- 
+* You can add contacts information like your email and social media account 
+* 
+* Also it's common to add some PR guidance.
+-->
+
+
+> You can make this project better, please  feel free to open a [Pull Request](https://github.com/YousefIbrahimismail/Project-README-Template/pulls).
+- If you notice a bug or a typo use the tag **"Correction"**.
+- If you want to share any ideas to help make this project better, use the tag **"Enhancement"**.
+
+<details>
+    <summary>Contact Me 📨</summary>
+
+### Contact<!-- Required -->
+Reach me via email: [yousef_i44@protonmail.com](mailto:yousef_i44@protonmail.com)
+<!-- 
+* add your email and contact info here
+* 
+* 
+-->
+    
+</details>
+
+## License<!-- Optional -->
+<!-- 
+* Here you can add project license for copyrights and distribution 
+* 
+* check this website for an easy reference https://choosealicense.com/)
+-->
+
+- [MIT License](./LICENSE.txt)
+
+
+<!-- - Use this html element to create a back to top button. -->
+<p align="right"><a href="#how-to-use-this-project">back to top ⬆️</a></p>
