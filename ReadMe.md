@@ -28,7 +28,7 @@
 -->
 <div align="center">
     <a href="https://github.com/YousefIbrahimismail" target="_blank">
-        <img src="/images/공구친구.png" 
+        <img src="/images/main_pos.png" 
         alt="Logo" width="644" height="297">
     </a>
 </div>
