@@ -84,7 +84,10 @@ This simple project offers you a fully customizable and presentable README.md te
 
 
 <div align="center">
-    <img alt="demo" src="https://user-images.githubusercontent.com/59213365/198179320-b9ec79a6-b5ca-47b9-9f29-125d18f6be70.gif">
+    <a href="https://github.com/YousefIbrahimismail" target="_blank">
+        <img src="/images/1.gif" 
+        alt="Logo" width="644" height="297">
+    </a>
 </div>
 
 ## Table of Contents<!-- Optional -->
