@@ -1,4 +1,4 @@
-package com.lilcode.aop.p3.c06.used_deal
+package com.KHU.PurchaseCommunity
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.lilcode.aop.p3.c06.used_deal", appContext.packageName)
+        assertEquals("com.KHU.PurchaseCommunity", appContext.packageName)
     }
 }

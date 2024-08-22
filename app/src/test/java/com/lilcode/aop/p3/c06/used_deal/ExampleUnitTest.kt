@@ -1,4 +1,4 @@
-package com.lilcode.aop.p3.c06.used_deal
+package com.KHU.PurchaseCommunity
 
 import org.junit.Test
 

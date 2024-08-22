@@ -3,6 +3,21 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/user/Desktop/aop_p3c06_PurchaseCommunity (2)/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.2838541666666667" />
+        <entry key="..\:/Users/user/Desktop/aop_p3c06_PurchaseCommunity (2)/app/src/main/res/drawable/ic_baseline_chat_24.xml" value="0.2838541666666667" />
+        <entry key="..\:/Users/user/Desktop/aop_p3c06_PurchaseCommunity (2)/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.2838541666666667" />
+        <entry key="..\:/Users/user/Desktop/aop_p3c06_PurchaseCommunity (2)/app/src/main/res/drawable/ic_baseline_person_pin_24.xml" value="0.2838541666666667" />
+        <entry key="..\:/Users/user/Desktop/aop_p3c06_PurchaseCommunity (2)/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2838541666666667" />
+        <entry key="..\:/Users/user/Desktop/aop_p3c06_PurchaseCommunity (2)/app/src/main/res/drawable/selector_menu_color.xml" value="0.2838541666666667" />
+        <entry key="..\:/Users/user/Desktop/aop_p3c06_PurchaseCommunity (2)/app/src/main/res/layout/activity_add_article.xml" value="0.35280797101449274" />
+        <entry key="..\:/Users/user/Desktop/aop_p3c06_PurchaseCommunity (2)/app/src/main/res/layout/activity_chatroom.xml" value="0.2677083333333333" />
+        <entry key="..\:/Users/user/Desktop/aop_p3c06_PurchaseCommunity (2)/app/src/main/res/layout/activity_main.xml" value="0.2677083333333333" />
+        <entry key="..\:/Users/user/Desktop/aop_p3c06_PurchaseCommunity (2)/app/src/main/res/layout/fragment_chatlist.xml" value="0.2677083333333333" />
+        <entry key="..\:/Users/user/Desktop/aop_p3c06_PurchaseCommunity (2)/app/src/main/res/layout/fragment_home.xml" value="0.2677083333333333" />
+        <entry key="..\:/Users/user/Desktop/aop_p3c06_PurchaseCommunity (2)/app/src/main/res/layout/item_article.xml" value="0.2677083333333333" />
+        <entry key="..\:/Users/user/Desktop/aop_p3c06_PurchaseCommunity (2)/app/src/main/res/layout/item_chat.xml" value="0.2677083333333333" />
+        <entry key="..\:/Users/user/Desktop/aop_p3c06_PurchaseCommunity (2)/app/src/main/res/layout/item_chatlist.xml" value="0.2677083333333333" />
+        <entry key="..\:/Users/user/Desktop/aop_p3c06_PurchaseCommunity (2)/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.2677083333333333" />
         <entry key="app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.29384615384615387" />
         <entry key="app/src/main/res/drawable/selector_menu_color.xml" value="0.29384615384615387" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.27794871794871795" />
